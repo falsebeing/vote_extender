@@ -1,0 +1,105 @@
+2020-11-05 07:48:27,158 - (RESULT)
+Expected vote tally in PA stands as:
+2020-11-05 07:48:27,159 - (RESULT)Biden: 3051555
+2020-11-05 07:48:27,159 - (RESULT)Trump: 3215969
+
+2020-11-05 07:48:27,159 - (RESULT)Trump leads by 164414
+
+2020-11-05 07:49:12,505 - (RESULT)
+Results Report:
+2020-11-05 07:49:12,505 - (RESULT)As of: 11/5 at 7:49 in Philadelphia County
+
+2020-11-05 07:49:12,505 - (RESULT)Biden: 457773
+Trump: 113721
+Biden leads by 344052
+2020-11-05 07:49:12,505 - (RESULT)Method 1:
+----------------
+2020-11-05 07:49:12,506 - (RESULT)Biden is expected extend his lead by 147,450 votes to a total of 491,502
+
+2020-11-05 07:49:12,506 - (RESULT)Method 2:
+----------------
+2020-11-05 07:49:12,506 - (RESULT)Biden is expected to extend his vote count by 196,188 to a total of 653,961
+2020-11-05 07:49:12,506 - (RESULT)Trump is expected to extend his vote count by 48,737 to a total of 162,458
+
+2020-11-05 07:49:12,506 - (RESULT)This would extend Biden's lead by 147,451 to a total of 491,503
+
+2020-11-05 07:49:12,506 - (RESULT)Added Philadelphia County to PA
+2020-11-05 07:49:12,507 - county name: Philadelphia
+2020-11-05 07:49:12,507 - current biden votes: 457773
+2020-11-05 07:49:12,507 - expected biden total: 653961
+2020-11-05 07:49:12,507 - current trump votes: 113721
+2020-11-05 07:49:12,507 - expected trump total: 162458
+2020-11-05 07:49:23,337 - (RESULT)Predictions accounted for in Philadelphia county:
+2020-11-05 07:49:23,338 - (RESULT)
+Expected vote tally in PA stands as:
+2020-11-05 07:49:23,338 - (RESULT)Biden: 3247743
+2020-11-05 07:49:23,338 - (RESULT)Trump: 3264706
+
+2020-11-05 07:49:23,338 - (RESULT)Trump leads by 16963
+
+2020-11-05 07:50:16,996 - (RESULT)
+Results Report:
+2020-11-05 07:50:16,996 - (RESULT)As of: 11/5 at 7:50 in Delaware County
+
+2020-11-05 07:50:16,997 - (RESULT)Biden: 174699
+Trump: 108315
+Biden leads by 66384
+2020-11-05 07:50:16,997 - (RESULT)Method 1:
+----------------
+2020-11-05 07:50:16,997 - (RESULT)Biden is expected extend his lead by 14,572 votes to a total of 80,956
+
+2020-11-05 07:50:16,997 - (RESULT)Method 2:
+----------------
+2020-11-05 07:50:16,997 - (RESULT)Biden is expected to extend his vote count by 38,348 to a total of 213,047
+2020-11-05 07:50:16,998 - (RESULT)Trump is expected to extend his vote count by 23,776 to a total of 132,091
+
+2020-11-05 07:50:16,998 - (RESULT)This would extend Biden's lead by 14,572 to a total of 80,956
+
+2020-11-05 07:50:16,998 - (RESULT)Added Delaware County to PA
+2020-11-05 07:50:16,998 - county name: Delaware
+2020-11-05 07:50:16,998 - current biden votes: 174699
+2020-11-05 07:50:16,998 - expected biden total: 213047
+2020-11-05 07:50:16,999 - current trump votes: 108315
+2020-11-05 07:50:16,999 - expected trump total: 132091
+2020-11-05 07:50:29,332 - (RESULT)Predictions accounted for in Philadelphia, and Delaware counties:
+
+2020-11-05 07:50:29,332 - (RESULT)
+Expected vote tally in PA stands as:
+2020-11-05 07:50:29,333 - (RESULT)Biden: 3286091
+2020-11-05 07:50:29,333 - (RESULT)Trump: 3288482
+
+2020-11-05 07:50:29,333 - (RESULT)Trump leads by 2391
+
+2020-11-05 07:51:02,982 - (RESULT)
+Results Report:
+2020-11-05 07:51:02,983 - (RESULT)As of: 11/5 at 7:51 in Allegheny County
+
+2020-11-05 07:51:02,983 - (RESULT)Biden: 396042
+Trump: 267838
+Biden leads by 128204
+2020-11-05 07:51:02,983 - (RESULT)Method 1:
+----------------
+2020-11-05 07:51:02,983 - (RESULT)Biden is expected extend his lead by 15,845 votes to a total of 144,049
+
+2020-11-05 07:51:02,983 - (RESULT)Method 2:
+----------------
+2020-11-05 07:51:02,983 - (RESULT)Biden is expected to extend his vote count by 48,949 to a total of 444,991
+2020-11-05 07:51:02,984 - (RESULT)Trump is expected to extend his vote count by 33,103 to a total of 300,941
+
+2020-11-05 07:51:02,984 - (RESULT)This would extend Biden's lead by 15,846 to a total of 144,050
+
+2020-11-05 07:51:02,984 - (RESULT)Added Allegheny County to PA
+2020-11-05 07:51:02,984 - county name: Allegheny
+2020-11-05 07:51:02,984 - current biden votes: 396042
+2020-11-05 07:51:02,984 - expected biden total: 444991
+2020-11-05 07:51:02,984 - current trump votes: 267838
+2020-11-05 07:51:02,985 - expected trump total: 300941
+2020-11-05 07:51:10,029 - (RESULT)Predictions accounted for in Philadelphia, Delaware, and Allegheny counties:
+
+2020-11-05 07:51:10,029 - (RESULT)
+Expected vote tally in PA stands as:
+2020-11-05 07:51:10,030 - (RESULT)Biden: 3335040
+2020-11-05 07:51:10,030 - (RESULT)Trump: 3321585
+
+2020-11-05 07:51:10,030 - (RESULT)Biden leads by 13455
+

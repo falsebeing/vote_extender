@@ -1,0 +1,25 @@
+2020-11-05 06:51:20,903 - As of: 11/5-6:51 in Philadelphia County
+2020-11-05 06:51:20,904 - Method 1:
+----------------
+
+2020-11-05 06:51:20,904 - number_s 147425   limit 6  
+2020-11-05 06:51:20,904 - Biden is expected extend his lead by 147,425 votes
+2020-11-05 06:51:20,904 - Method 2:
+----------------
+
+2020-11-05 06:51:20,905 - number_s 457773   limit 6  
+2020-11-05 06:51:20,905 - number_s 196188   limit 6  
+2020-11-05 06:51:20,905 - number_s 653961   limit 6  
+2020-11-05 06:51:20,905 - Biden is expected to extend his vote count of 457,773 by 196,188 to a total of 653,961
+2020-11-05 06:51:20,905 - number_s 113781   limit 6  
+2020-11-05 06:51:20,905 - number_s 48763   limit 5  
+2020-11-05 06:51:20,906 - number_s 162544   limit 6  
+2020-11-05 06:51:20,906 - Trump is expected to extend his vote count of 113,781 by 48,763 to a total of 162,544
+2020-11-05 06:51:20,906 - number_s Biden   limit 5  
+2020-11-05 06:51:20,906 - number_s 147425   limit 6  
+2020-11-05 06:51:20,906 - This would extend Bi,den's lead by 147,425
+2020-11-05 06:51:20,906 - county name: Philadelphia
+2020-11-05 06:51:20,906 - current biden votes: 457773
+2020-11-05 06:51:20,907 - expected biden total: 653961
+2020-11-05 06:51:20,907 - current trump votes: 113781
+2020-11-05 06:51:20,907 - expected trump total: 162544
